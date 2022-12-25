@@ -11,4 +11,4 @@ else{
   console.log("both are  equal");
 }
 
-// (a>b) ? console.log("a") : (a<b)?console.log("
+// (a>b) ? console.log("a") : (a<b)?console.log("b");
